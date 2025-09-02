@@ -86,3 +86,24 @@
 .project-card-view .card-img-top {
   opacity: 1 !important;
 }
+
+/* Remove spacing between Home sections */
+.home-about-section {
+  margin-top: 0 !important;
+  padding-top: 0 !important;
+}
+
+.home-section {
+  margin-bottom: 0 !important;
+  padding-bottom: 0 !important;
+}
+
+/* Reduce Home1 height */
+.home-content {
+  padding-top: 50px !important;
+  padding-bottom: 30px !important;
+}
+
+.home-header {
+  padding-bottom: 20px !important;
+}
