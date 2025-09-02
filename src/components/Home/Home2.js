@@ -8,7 +8,7 @@ import { FaLinkedinIn } from "react-icons/fa";
 
 function Home2() {
   return (
-    <Container fluid className="home-about-section" id="about" style={{ paddingTop: "10px" }}>
+    <Container fluid className="home-about-section" id="about" style={{ paddingTop: "0px", marginTop: "0px" }}>
       <Container>
         <Row>
           <Col md={8} className="home-about-description">
