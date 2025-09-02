@@ -21,7 +21,7 @@ function Projects() {
               isBlog={false}
               title="PomeLove"
               description="A commercial website for a Pomeranian breeding and sales company, built following Robert C. Martin's Clean Architecture principles. Features mobile-first responsive design, dynamic design that adapts to client needs, admin panel for pet and category management, and internationalization with locale support."
-              ghLink="https://github.com/davidlopera"
+              ghLink="https://github.com/Dalolito/PomeLove"
               demoLink="https://pomeloves.com/"
             />
           </Col>
@@ -32,7 +32,7 @@ function Projects() {
               isBlog={false}
               title="HireLens"
               description="A technology solution focused on optimizing the resume digitization process for Magneto recruitment platform. Features handwritten document processing via scanner, JSON conversion with standardized schema, database integration ready, and API-first approach with pay-per-use model."
-              ghLink="https://github.com/davidlopera"
+              ghLink="https://github.com/camazog1/Scanner_Of_CV"
               demoLink="#"
             />
           </Col>
@@ -43,7 +43,7 @@ function Projects() {
               isBlog={false}
               title="MedalloBike (Academic Project)"
               description="An e-commerce platform focused on bicycle articles and cycling route recommendations, emphasizing clean code practices and maintainable architecture. Features product catalog for bicycle equipment and route recommendation system for cyclists."
-              ghLink="https://github.com/davidlopera"
+              ghLink="https://github.com/Dalolito/MedalloBike"
               demoLink="#"
             />
           </Col>
