@@ -15,7 +15,12 @@ import {
   SiFirebase,
   SiNextdotjs,
   SiSolidity,
-  SiPostgresql,
+  SiMysql,
+  SiVuedotjs,
+  SiDjango,
+  SiFastapi,
+  SiLaravel,
+  SiTypescript,
 } from "react-icons/si";
 import { TbBrandGolang } from "react-icons/tb";
 
@@ -23,46 +28,76 @@ function Techstack() {
   return (
     <Row style={{ justifyContent: "center", paddingBottom: "50px" }}>
       <Col xs={4} md={2} className="tech-icons">
-        <CgCPlusPlus />
+        <div className="tech-item">
+          <DiPython />
+          <p className="tech-name">Python</p>
+        </div>
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <DiJavascript1 />
+        <div className="tech-item">
+          <DiJavascript1 />
+          <p className="tech-name">JavaScript</p>
+        </div>
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <TbBrandGolang />
+        <div className="tech-item">
+          <SiTypescript />
+          <p className="tech-name">TypeScript</p>
+        </div>
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <DiNodejs />
+        <div className="tech-item">
+          <DiReact />
+          <p className="tech-name">React</p>
+        </div>
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <DiReact />
+        <div className="tech-item">
+          <SiVuedotjs />
+          <p className="tech-name">Vue.js</p>
+        </div>
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiSolidity />
+        <div className="tech-item">
+          <SiNextdotjs />
+          <p className="tech-name">Next.js</p>
+        </div>
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <DiMongodb />
+        <div className="tech-item">
+          <SiDjango />
+          <p className="tech-name">Django</p>
+        </div>
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiNextdotjs />
+        <div className="tech-item">
+          <SiFastapi />
+          <p className="tech-name">FastAPI</p>
+        </div>
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <DiGit />
+        <div className="tech-item">
+          <SiLaravel />
+          <p className="tech-name">Laravel</p>
+        </div>
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiFirebase />
+        <div className="tech-item">
+          <DiGit />
+          <p className="tech-name">Git</p>
+        </div>
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiRedis />
+        <div className="tech-item">
+          <SiMysql />
+          <p className="tech-name">MySQL</p>
+        </div>
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiPostgresql />
-      </Col>
-      <Col xs={4} md={2} className="tech-icons">
-        <DiPython />
-      </Col>
-      <Col xs={4} md={2} className="tech-icons">
-        <DiJava />
+        <div className="tech-item">
+          <CgCPlusPlus />
+          <p className="tech-name">C++</p>
+        </div>
       </Col>
     </Row>
   );

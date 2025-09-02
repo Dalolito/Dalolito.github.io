@@ -1,6 +1,6 @@
 <h2 align="center">
-  Portfolio Website - v2.0<br/>
-  <a href="https://soumyajit.vercel.app/" target="_blank">soumyajit.tech</a>
+  David Lopera Londoño - Portfolio Website<br/>
+  <a href="https://davidlopera.github.io/" target="_blank">davidlopera.github.io</a>
 </h2>
 <div align="center">
   <img alt="Demo" src="./Images/readme-img1.png" />
@@ -13,42 +13,50 @@
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) &nbsp;
 [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) &nbsp;
 [![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) &nbsp;
-![GitHub Repo stars](https://img.shields.io/github/stars/soumyajit4419/Portfolio?color=red&logo=github&style=for-the-badge) &nbsp;
-![GitHub forks](https://img.shields.io/github/forks/soumyajit4419/Portfolio?color=red&logo=github&style=for-the-badge)
+![GitHub Repo stars](https://img.shields.io/github/stars/davidlopera/Dalolito.github.io?color=red&logo=github&style=for-the-badge) &nbsp;
+![GitHub forks](https://img.shields.io/github/forks/davidlopera/Dalolito.github.io?color=red&logo=github&style=for-the-badge)
 
 </center>
 
 <h3 align="center">
     🔹
-    <a href="https://github.com/soumyajit4419/Portfolio/issues">Report Bug</a> &nbsp; &nbsp;
+    <a href="https://github.com/davidlopera/Dalolito.github.io/issues">Report Bug</a> &nbsp; &nbsp;
     🔹
-    <a href="https://github.com/soumyajit4419/Portfolio/issues">Request Feature</a>
+    <a href="https://github.com/davidlopera/Dalolito.github.io/issues">Request Feature</a>
 </h3>
+
+## About Me
+
+I'm **David Lopera Londoño**, a Systems Engineering student at Universidad EAFIT with strong skills in **full-stack development**. I'm passionate about building clean and practical technology solutions, with a keen interest in **automation** and **software development**.
+
+Currently in my 8th semester with a **4.44/5.0 GPA**, I combine technical expertise with leadership skills and effective communication. I'm motivated to take on new challenges that foster professional growth.
 
 ## TL;DR
 
-You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [Soumyajit4419](https://github.com/soumyajit4419/Portfolio). Thanks!
+This is my personal portfolio website showcasing my projects, skills, and experience. You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [David Lopera](https://github.com/davidlopera/Dalolito.github.io). Thanks!
 
 ## Built With
 
-My personal portfolio <a href="https://soumyajit.vercel.app/" target="_blank">soumyajit.tech</a> which features some of my github projects as well as my resume and technical skills.<br/>
+My personal portfolio <a href="https://davidlopera.github.io/" target="_blank">davidlopera.github.io</a> which features some of my github projects as well as my resume and technical skills.<br/>
 
 This project was built using these technologies.
 
 - React.js
 - Node.js
-- Express.js
+- Bootstrap
 - CSS3
 - VsCode
-- Vercel
+- GitHub Pages
 
 ## Features
 
 **📖 Multi-Page Layout**
 
-**🎨 Styled with React-Bootstrap and Css with easy to customize colors**
+**🎨 Styled with React-Bootstrap and CSS with easy to customize colors**
 
 **📱 Fully Responsive**
+
+**🚀 Modern UI with particle effects and smooth animations**
 
 ## Getting Started
 
@@ -73,4 +81,9 @@ You will find all the components used and you can edit your information accordin
 
 Give a ⭐ if you like this website!
 
-<a href="https://www.buymeacoffee.com/soumyajit4419" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height= "60px" width= "217px" ></a>
+## Contact
+
+- **Email:** [dloperal2@eafit.edu.co](mailto:dloperal2@eafit.edu.co)
+- **LinkedIn:** [david-lopera-londoño](https://linkedin.com/in/david-lopera-londoño)
+- **GitHub:** [@davidlopera](https://github.com/davidlopera)
+- **Location:** Medellín, Antioquia, Colombia
