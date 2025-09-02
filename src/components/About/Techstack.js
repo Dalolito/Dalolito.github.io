@@ -4,25 +4,17 @@ import { CgCPlusPlus } from "react-icons/cg";
 import {
   DiJavascript1,
   DiReact,
-  DiNodejs,
-  DiMongodb,
   DiPython,
   DiGit,
-  DiJava,
 } from "react-icons/di";
 import {
-  SiRedis,
-  SiFirebase,
-  SiNextdotjs,
-  SiSolidity,
-  SiMysql,
+  SiPostgresql,
   SiVuedotjs,
   SiDjango,
   SiFastapi,
   SiLaravel,
   SiTypescript,
 } from "react-icons/si";
-import { TbBrandGolang } from "react-icons/tb";
 
 function Techstack() {
   return (
@@ -59,12 +51,6 @@ function Techstack() {
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <div className="tech-item">
-          <SiNextdotjs />
-          <p className="tech-name">Next.js</p>
-        </div>
-      </Col>
-      <Col xs={4} md={2} className="tech-icons">
-        <div className="tech-item">
           <SiDjango />
           <p className="tech-name">Django</p>
         </div>
@@ -89,8 +75,8 @@ function Techstack() {
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <div className="tech-item">
-          <SiMysql />
-          <p className="tech-name">MySQL</p>
+          <SiPostgresql />
+          <p className="tech-name">PostgreSQL</p>
         </div>
       </Col>
       <Col xs={4} md={2} className="tech-icons">
